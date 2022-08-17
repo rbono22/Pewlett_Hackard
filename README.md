@@ -5,6 +5,7 @@ The purpose of this project is to analyze the employment database of the fiction
 
 ## Results
 The table below shows the number of retirement age employees born between January 1, 1952 and December 31, 1955 grouped by title in the company.
+
 ![Query Image 1](ph_imag1.png)
 
 -The positions most affected by the incoming wave of retirement will be "Senior Engineer" and "Senior Staff."
